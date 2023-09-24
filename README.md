@@ -10,4 +10,6 @@ pinned: false
 license: creativeml-openrail-m
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+__Flickbox__ is a Transformers-based Movie Recommendation Utility <br>
+
+Simply input your previously watched movie name and get recommendations for your next watch
